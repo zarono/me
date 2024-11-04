@@ -1,0 +1,60 @@
+html {
+  background-image: url(img/image_processing20210903-12272-1x726tg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0);
+  width: 600px;
+  margin: 0 auto;
+  padding: 25px 50px;
+  text-align: center;
+}
+
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+.row1 > th {
+  color: white;
+  background-color: red;
+}
+
+.row2 > td {
+  color: white;
+  background-color: red;
+}
+
+.row3 > td {
+  color: white;
+  background-color: red;
+}
+
+.row4 > td {
+  color: white;
+  background-color: red;
+  text-align: 0 center;
+}
+
+.row5 > td {
+  color: white;
+  background-color: red;
+}
+
+.row6 > td {
+  color: white;
+  background-color: red;
+}
+
+#poke-table {
+  width: 150px;
+  background-color: red;
+  color: white;
+  text-align: 0 center;
+}
+#poke-table img {
+  width: 150px;
+}
